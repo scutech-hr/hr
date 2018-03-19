@@ -2,79 +2,79 @@
   "company": {
     "title": "广州鼎甲计算机科技有限公司",
     "type": "准备上市公司",
-    "people": "100-1000人",
+    "people": "200-500人",
     "summary": "公司描述"
   },
   "jobs": [
     {
-      "title": "C++研发工程师",
+      "title": "C++分布式开发工程师",
       "price": "面议",
-      "location": "广州市",
-      "experiences": "3年",
+      "location": "武汉",
+      "experiences": "2年以上",
       "education": "本科",
-      "date": "2018-03-08",
-      "depart": "研发部",
-      "url": "http://www.scutech.com"
+      "date": "2018-03-19",
+      "depart": "武汉研发中心",
+      "url": "http://jobs.51job.com/wuhan/95798523.html?s=01&t=0"
     },
     {
-      "title": "Web前端开发工程师",
+      "title": "C++开发工程师",
       "price": "面议",
-      "location": "广州市",
-      "experiences": "3年",
+      "location": "广州",
+      "experiences": "1年以上",
       "education": "本科",
-      "date": "2018-03-08",
-      "depart": "研发部",
-      "url": "http://www.scutech.com"
+      "date": "2018-03-19",
+      "depart": "广州研发中心",
+      "url": "http://jobs.51job.com/guangzhou/46888413.html?s=01&t=0"
     },
     {
-      "title": "C++研发工程师",
+      "title": "C++研发工程师（成都）",
       "price": "面议",
-      "location": "广州市",
-      "experiences": "3年",
+      "location": "成都",
+      "experiences": "2-5年",
       "education": "本科",
-      "date": "2018-03-08",
-      "depart": "研发部",
-      "url": "http://www.scutech.com"
+      "date": "2018-03-19",
+      "depart": "成都研发中心",
+      "url": "http://jobs.51job.com/chengdu/91888897.html?s=01&t=0"
     },
     {
-      "title": "Web前端开发工程师",
+      "title": "Python开发工程师",
       "price": "面议",
-      "location": "广州市",
-      "experiences": "3年",
+      "location": "成都",
+      "experiences": "1-3年",
       "education": "本科",
-      "date": "2018-03-08",
-      "depart": "研发部",
-      "url": "http://www.scutech.com"
+      "date": "2018-03-19",
+      "depart": "成都研发中心",
+      "url": "http://jobs.51job.com/chengdu/99622941.html?s=01&t=0"
     },
     {
-      "title": "C++研发工程师",
+      "title": "web前端开发工程师",
       "price": "面议",
-      "location": "广州市",
-      "experiences": "3年",
+      "location": "武汉",
+      "experiences": "2-5年",
       "education": "本科",
-      "date": "2018-03-08",
-      "depart": "研发部",
-      "url": "http://www.scutech.com"
+      "date": "2018-03-19",
+      "depart": "武汉研发中心",
+      "url": "http://jobs.51job.com/wuhan/84378692.html?s=01&t=0"
     },
     {
-      "title": "Web前端开发工程师",
+      "title": "软件测试工程师",
       "price": "面议",
-      "location": "广州市",
-      "experiences": "3年",
+      "location": "成都",
+      "experiences": "1-3年",
       "education": "本科",
-      "date": "2018-03-08",
-      "depart": "研发部",
-      "url": "http://www.scutech.com"
+      "date": "2018-03-19",
+      "depart": "成都研发中心",
+      "url": "http://jobs.51job.com/chengdu/67507391.html?s=01&t=0"
     },
     {
-      "title": "Web前端开发工程师",
+      "title": "软件测试工程师",
       "price": "面议",
       "location": "广州市",
       "experiences": "3年",
       "education": "本科",
-      "date": "2018-03-08",
-      "depart": "研发部",
-      "url": "http://www.scutech.com"
+      "date": "2018-03-19",
+      "depart": "广州研发中心",
+      "url": "http://jobs.51job.com/guangzhou/89579164.html?s=01&t=0"
     }
   ]
 }
