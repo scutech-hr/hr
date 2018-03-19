@@ -1,0 +1,80 @@
+{
+  "company": {
+    "title": "广州鼎甲计算机科技有限公司",
+    "type": "准备上市公司",
+    "people": "100-1000人",
+    "summary": "公司描述"
+  },
+  "jobs": [
+    {
+      "title": "C++研发工程师",
+      "price": "面议",
+      "location": "广州市",
+      "experiences": "3年",
+      "education": "本科",
+      "date": "2018-03-08",
+      "depart": "研发部",
+      "url": "http://www.scutech.com"
+    },
+    {
+      "title": "Web前端开发工程师",
+      "price": "面议",
+      "location": "广州市",
+      "experiences": "3年",
+      "education": "本科",
+      "date": "2018-03-08",
+      "depart": "研发部",
+      "url": "http://www.scutech.com"
+    },
+    {
+      "title": "C++研发工程师",
+      "price": "面议",
+      "location": "广州市",
+      "experiences": "3年",
+      "education": "本科",
+      "date": "2018-03-08",
+      "depart": "研发部",
+      "url": "http://www.scutech.com"
+    },
+    {
+      "title": "Web前端开发工程师",
+      "price": "面议",
+      "location": "广州市",
+      "experiences": "3年",
+      "education": "本科",
+      "date": "2018-03-08",
+      "depart": "研发部",
+      "url": "http://www.scutech.com"
+    },
+    {
+      "title": "C++研发工程师",
+      "price": "面议",
+      "location": "广州市",
+      "experiences": "3年",
+      "education": "本科",
+      "date": "2018-03-08",
+      "depart": "研发部",
+      "url": "http://www.scutech.com"
+    },
+    {
+      "title": "Web前端开发工程师",
+      "price": "面议",
+      "location": "广州市",
+      "experiences": "3年",
+      "education": "本科",
+      "date": "2018-03-08",
+      "depart": "研发部",
+      "url": "http://www.scutech.com"
+    },
+    {
+      "title": "Web前端开发工程师",
+      "price": "面议",
+      "location": "广州市",
+      "experiences": "3年",
+      "education": "本科",
+      "date": "2018-03-08",
+      "depart": "研发部",
+      "url": "http://www.scutech.com"
+    }
+  ]
+}
