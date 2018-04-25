@@ -196,16 +196,28 @@
       "depart": "产品部",
       "url": "https://jobs.51job.com/guangzhou/76851820.html?s=01&t=0"
     },
-    "title": "项目工程师",
+    {
+      "title": "项目工程师",
       "price": "面议",
       "location": "广州",
-      "experiences": "经验不限",
+      "experiences": "1年以上",
       "education": "本科",
       "date": "2018-04-25",
       "depart": "科技项目部",
       "url": "https://jobs.51job.com/guangzhou/101472158.html?s=01&t=0"
     },
-    "title": "会计",
+    {
+      "title": "产品文档翻译",
+      "price": "面议",
+      "location": "广州",
+      "experiences": "1年以上",
+      "education": "本科",
+      "date": "2018-04-25",
+      "depart": "产品部",
+      "url": "https://jobs.51job.com/guangzhou/76851820.html?s=01&t=0"
+    },
+    {
+      "title": "会计",
       "price": "面议",
       "location": "广州",
       "experiences": "18届应届生",
