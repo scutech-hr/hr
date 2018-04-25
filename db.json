@@ -11,7 +11,7 @@
       "price": "面议",
       "location": "武汉",
       "experiences": "2年以上",
-      "education": "本科",
+      "education": "本科以上",
       "date": "2018-04-25",
       "depart": "武汉研发中心",
       "url": "http://jobs.51job.com/wuhan/95798523.html?s=01&t=0"
@@ -20,8 +20,8 @@
       "title": "C++开发工程师",
       "price": "面议",
       "location": "广州",
-      "experiences": "1年以上",
-      "education": "本科",
+      "experiences": "2年以上",
+      "education": "本科以上",
       "date": "2018-04-25",
       "depart": "广州研发中心",
       "url": "http://jobs.51job.com/guangzhou/46888413.html?s=01&t=0"
@@ -31,7 +31,7 @@
       "price": "面议",
       "location": "成都",
       "experiences": "2-5年",
-      "education": "本科",
+      "education": "本科以上",
       "date": "2018-04-25",
       "depart": "成都研发中心",
       "url": "http://jobs.51job.com/chengdu/91888897.html?s=01&t=0"
@@ -70,7 +70,7 @@
       "title": "软件测试工程师",
       "price": "面议",
       "location": "广州市",
-      "experiences": "3年",
+      "experiences": "1-3年",
       "education": "本科",
       "date": "2018-04-25",
       "depart": "质量控制部广州组",
@@ -131,7 +131,7 @@
       "price": "面议",
       "location": "新疆乌鲁木齐",
       "experiences": "3年以上",
-      "education": "大专以上",
+      "education": "本科",
       "date": "2018-04-25",
       "depart": "技术支持部新区",
       "url": "http://jobs.51job.com/xinjiang/92185118.html?s=01&t=0"
