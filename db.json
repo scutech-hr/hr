@@ -12,9 +12,29 @@
       "location": "广州",
       "experiences": "2年以上",
       "education": "本科以上",
-      "date": "2018-12-10",
+      "date": "2019-1-28",
       "depart": "广州研发中心",
       "url": "http://jobs.51job.com/guangzhou/46888413.html?s=01&t=0"
+    },
+     {
+      "title": "C++系统架构师",
+      "price": "面议",
+      "location": "武汉",
+      "experiences": "5年以上",
+      "education": "本科以上",
+      "date": "2019-1-28",
+      "depart": "武汉研发中心",
+      "url": "https://jobs.51job.com/wuhan/109308508.html?s=01&t=0"
+    },
+     {
+      "title": "C++开发工程师",
+      "price": "面议",
+      "location": "成都",
+      "experiences": "2年以上",
+      "education": "本科以上",
+      "date": "2019-1-28",
+      "depart": "成都研发中心",
+      "url": "https://jobs.51job.com/chengdu/91888897.html?s=01&t=0"
     },
     {
       "title": "软件测试工程师",
@@ -22,29 +42,59 @@
       "location": "广州市",
       "experiences": "1-3年",
       "education": "本科",
-      "date": "2018-12-10",
+      "date": "2018-1-29",
       "depart": "质量控制部广州组",
       "url": "http://jobs.51job.com/guangzhou/89579164.html?s=01&t=0"
     },
     {
-      "title": "渠道销售经理（浙江）",
+      "title": "西南区域销售总监",
       "price": "面议",
-      "location": "浙江",
-      "experiences": "3年以上",
+      "location": "成都",
+      "experiences": "10年以上",
       "education": "大专以上",
-      "date": "2018-12-10",
+      "date": "2019-1-29",
       "depart": "销售部",
-      "url": "https://jobs.51job.com/zhejiangsheng/105708952.html?s=01&t=0"
+      "url": "https://jobs.51job.com/chengdu/109727930.html?s=01&t=0"
     },
     {
-      "title": "渠道销售经理（安徽）",
+      "title": "政府行业销售经理（上海）",
+      "price": "面议",
+      "location": "上海",
+      "experiences": "5年以上",
+      "education": "大专以上",
+      "date": "2019-1-29",
+      "depart": "销售部",
+      "url": "https://jobs.51job.com/shanghai-cnq/110003790.html?s=01&t=0"
+    },
+    {
+      "title": "政府行业销售经理（南京）",
+      "price": "面议",
+      "location": "南京",
+      "experiences": "5年以上",
+      "education": "大专以上",
+      "date": "2019-1-29",
+      "depart": "销售部",
+      "url": "https://jobs.51job.com/nanjing/110003900.html?s=01&t=0"
+    },
+     {
+      "title": "政府行业销售经理（杭州）",
+      "price": "面议",
+      "location": "杭州",
+      "experiences": "5年以上",
+      "education": "大专以上",
+      "date": "2019-1-29",
+      "depart": "销售部",
+      "url": "https://jobs.51job.com/zhejiangsheng/110004129.html?s=01&t=0"
+    },
+    {
+      "title": "政府行业销售经理（安徽）",
       "price": "面议",
       "location": "安徽",
-      "experiences": "3年以上",
+      "experiences": "5年以上",
       "education": "大专以上",
-      "date": "2018-12-10",
+      "date": "2019-1-29",
       "depart": "销售部",
-      "url": "https://jobs.51job.com/hefei/105709259.html?s=01&t=0"
+      "url": "https://jobs.51job.com/hefei/110004354.html?s=01&t=0"
     },
     {
       "title": "政府行业销售经理（北京）",
@@ -52,7 +102,7 @@
       "location": "北京市",
       "experiences": "5年以上",
       "education": "大专以上",
-      "date": "2018-12-10",
+      "date": "2019-1-29",
       "depart": "销售部",
       "url": "https://jobs.51job.com/beijing-hdq/100996956.html?s=01&t=0"
     },
@@ -62,9 +112,19 @@
       "location": "济南市",
       "experiences": "5年以上",
       "education": "大专以上",
-      "date": "2018-12-10",
+      "date": "2019-1-29",
       "depart": "销售部",
       "url": "https://jobs.51job.com/shandongsheng/108751935.html?s=01&t=0"
+    },
+    {
+      "title": "政府行业销售经理（福建）",
+      "price": "面议",
+      "location": "福州",
+      "experiences": "5年以上",
+      "education": "大专以上",
+      "date": "2019-1-29",
+      "depart": "销售部",
+      "url": "https://jobs.51job.com/fujiansheng/108934691.html?s=01&t=0"
     },
     {
       "title": "移动行业客户经理（成都）",
@@ -82,19 +142,19 @@
       "location": "北京",
       "experiences": "3年以上",
       "education": "本科",
-      "date": "2018-12-10",
+      "date": "2019-1-28",
       "depart": "技术支持部北区",
       "url": "https://jobs.51job.com/beijing-hdq/86362374.html?s=01&t=0"
     },
     {
-      "title": "技术支持工程师（新疆）",
+      "title": "华东区技术支持工程师",
       "price": "面议",
-      "location": "新疆乌鲁木齐",
+      "location": "上海",
       "experiences": "3年以上",
       "education": "本科",
-      "date": "2018-12-10",
-      "depart": "技术支持部新区",
-      "url": "https://jobs.51job.com/xinjiang/92185118.html?s=01&t=0"
+      "date": "2019-1-28",
+      "depart": "技术支持部华东区",
+      "url": "https://jobs.51job.com/shanghai-cnq/81740983.html?s=01&t=0"
     },
     {
       "title": "技术支持工程师（哈尔滨）",
@@ -102,39 +162,19 @@
       "location": "哈尔滨",
       "experiences": "3年以上",
       "education": "本科",
-      "date": "2018-12-10",
+      "date": "2019-1-128",
       "depart": "技术支持部东北区",
       "url": "https://jobs.51job.com/harbin/105976091.html?s=01&t=0"
     },
     {
       "title": "西南区技术支持工程师",
       "price": "面议",
-      "location": "重庆或成都",
+      "location": "成都",
       "experiences": "3年以上",
       "education": "本科",
-      "date": "2018-12-10",
+      "date": "2019-1-29",
       "depart": "技术支持部西南区",
       "url": "https://jobs.51job.com/chengdu/109018525.html?s=01&t=0"
-    },
-    {
-      "title": "技术支持工程师（上海）",
-      "price": "面议",
-      "location": "上海",
-      "experiences": "3年以上",
-      "education": "本科",
-      "date": "2018-12-10",
-      "depart": "技术支持部华东区",
-      "url": "https://jobs.51job.com/shanghai-cnq/81740983.html?s=01&t=0"
-    },
-    {
-      "title": "人力资源专员",
-      "price": "面议",
-      "location": "广州",
-      "experiences": "1年以上",
-      "education": "本科",
-      "date": "2018-12-10",
-      "depart": "人力资源部",
-      "url": "https://jobs.51job.com/guangzhou/92891592.html?s=01&t=0"
     },
     {
       "title": "电话销售（成都）",
@@ -142,19 +182,29 @@
       "location": "成都",
       "experiences": "经验不限",
       "education": "大专",
-      "date": "2018-12-10",
+      "date": "2019-1-28",
       "depart": "销售部",
       "url": "https://jobs.51job.com/chengdu/99688402.html?s=01&t=0"
     },
     {
-      "title": "财务总监",
+      "title": "内部审计",
       "price": "面议",
       "location": "广州",
       "experiences": "5年以上",
       "education": "本科",
-      "date": "2018-04-25",
-      "depart": "财务部",
-      "url": "http://jobs.51job.com/guangzhou/61861150.html?s=01&t=0"
+      "date": "2019-1-29",
+      "depart": "总经办",
+      "url": "https://jobs.51job.com/guangzhou/109992974.html?s=01&t=0"
+       },
+    {
+      "title": "行政文秘",
+      "price": "面议",
+      "location": "广州",
+      "experiences": "1年以上",
+      "education": "本科",
+      "date": "2019-1-29",
+      "depart": "行政部",
+      "url": "https://jobs.51job.com/guangzhou/109984986.html?s=01&t=0"
     }
   ]
 }
